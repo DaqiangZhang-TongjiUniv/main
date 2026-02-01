@@ -17,4 +17,4 @@ He received the Nomination Award for Shanghai Municipal Technology Invention Awa
 ========
 张大强，同济大学软件学院教授，博士生导师，硕士生导师，博士毕业于获得香港理工大学和上海交通大学计算机科学与技术专业，深耕机器视觉、自然语言处理、物联网和智能制造等领域多年，主要研究方向包括图像分割、目标检测、扩散模型、姿态估计、知识蒸馏、工业物联网、故障诊断、工业大数据、 工业机器人等。
 
-主持国家和省部级项目20多项，包括国家科技重大专项2项、国家自然科学基金面上项目、国家自然科学基金青年基金、国家级专精特新重点“小巨人”、教育部留学归国人员基金、教育部霍英东教育基金等，获得2024年度上海市技术发明奖提名奖、2024年中国机械工程学会好设计-装备中国大赛金奖。发表论文80多篇，SCI收录30多篇，包括ICRA、AAAI、IEEE INFOCOM、ACM UbiCOMP、IEEE Trans. on Parallel and Distributed Systems、IEEE Trans. on Computers、Journal of Industrial Information Integration等，谷歌学术引用14000多次，曾担任过7个SCI期刊的编辑，包括IEEE Communications Magazine（中科院Q1），曾担任过10多个期刊的首席客座主编，包括Elsevier Computer Networks（中科院2区）。
+主持国家和省部级项目20多项，包括国家科技重大专项2项（课题负责人）、国家自然科学基金面上项目、国家自然科学基金青年基金、国家级专精特新重点“小巨人”、教育部留学归国人员基金、教育部霍英东教育基金等，获得2024年度上海市技术发明奖提名奖、2024年中国机械工程学会好设计-装备中国大赛金奖。发表论文80多篇，SCI收录30多篇，包括ICRA、AAAI、IEEE INFOCOM、ACM UbiCOMP、IEEE Trans. on Parallel and Distributed Systems、IEEE Trans. on Computers、Journal of Industrial Information Integration等，谷歌学术引用14000多次，曾担任过7个SCI期刊的编辑，包括IEEE Communications Magazine（中科院Q1），曾担任过10多个期刊的首席客座主编，包括Elsevier Computer Networks（中科院2区）。
